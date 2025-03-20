@@ -1,0 +1,4 @@
+/home/mikhail/programming/cs/dsa/labs/lab3a/build/CMakeFiles/main.dir
+/home/mikhail/programming/cs/dsa/labs/lab3a/build/CMakeFiles/test.dir
+/home/mikhail/programming/cs/dsa/labs/lab3a/build/CMakeFiles/edit_cache.dir
+/home/mikhail/programming/cs/dsa/labs/lab3a/build/CMakeFiles/rebuild_cache.dir
